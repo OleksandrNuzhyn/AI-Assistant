@@ -1,7 +1,7 @@
 @echo off
 setlocal
 
-set "GOOGLE_API_KEY=AIzaSyBICmVNeGDo_mcscvsDkDb3nLB2GLQnwsM"
+set "GOOGLE_API_KEY=**"
 set "GOOGLE_APPLICATION_CREDENTIALS=C:\Programming\AI Assistant\Kira\tts_key\built-in-solution-c1edb66ee40d.json"
 
 set "PROJECT_DIR=C:\Programming\AI Assistant\Kira"
